@@ -6,15 +6,8 @@ In this way, it is possible to use the same stimuli for humans and LLMs.
 
 ### Implementation
 
-The experiment is implmented in [magpie](https://magpie-experiments.org/).
+The experiment is implemented in [magpie](https://magpie-experiments.org/).
 
-First, set up the project with `npm install`
+### Live version
 
-To run the project locally, run `npm run serve`
-
-To build the project for deployment (e.g. to Netlify), run `npm run build`
-
-If you are hosting this repository on github, the project will automatically be built and deployed to the gh-pages branch, so you only have to enable Github Pages in your repository settings to publish your project.
-
-For more information, see the [manual](https://magpie-experiments.org/).
-
+A live version of the experiment can be found [here](https://magpie-ea.github.io/magpie3-text-refgame).
